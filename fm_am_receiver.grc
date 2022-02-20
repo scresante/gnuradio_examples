@@ -5,7 +5,7 @@ options:
     category: Custom
     cmake_opt: ''
     comment: ''
-    copyright: Public Domain
+    copyright: MIT License
     description: Works with SDRPlay
     gen_cmake: 'On'
     gen_linking: dynamic
