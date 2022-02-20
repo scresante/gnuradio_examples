@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: Shawn Cresante
+    author: scresante
     catch_exceptions: 'True'
     category: Custom
     cmake_opt: ''

@@ -5,4 +5,4 @@ So far the only working file here is an AM/FM receiver built with gnuradio 3.9.4
 
 ## A basic AM/FM receiver for sdrplay
 
-![screenshot](./amfm.jpg)
+![screenshot](./fmam.png)
