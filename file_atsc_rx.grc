@@ -137,7 +137,7 @@ blocks:
     comment: ''
     file: mpeg.ts
     type: byte
-    unbuffered: 'False'
+    unbuffered: 'True'
     vlen: '1'
   states:
     bus_sink: false
@@ -167,7 +167,7 @@ blocks:
     bus_structure: null
     coordinate: [40, 276.0]
     rotation: 0
-    state: enabled
+    state: disabled
 - name: dtv_atsc_rx_0
   id: dtv_atsc_rx
   parameters:
@@ -228,7 +228,7 @@ blocks:
     bus_structure: null
     coordinate: [48, 412.0]
     rotation: 0
-    state: disabled
+    state: enabled
 
 connections:
 - [blocks_file_source_0, '0', dtv_atsc_rx_0, '0']
